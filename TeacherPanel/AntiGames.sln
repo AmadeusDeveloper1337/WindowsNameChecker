@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33920.266
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AntiGames", "AntiGames\AntiGames.csproj", "{16DB6D46-0C24-4419-A41B-4D4E637CE9A6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{16DB6D46-0C24-4419-A41B-4D4E637CE9A6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{16DB6D46-0C24-4419-A41B-4D4E637CE9A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{16DB6D46-0C24-4419-A41B-4D4E637CE9A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{16DB6D46-0C24-4419-A41B-4D4E637CE9A6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {63AC3E4F-82AB-481B-8EF7-DB982C1C0FD1}
+	EndGlobalSection
+EndGlobal
